@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Profile views](https://komarev.com/ghpvc/?username=Gladiator-007&label=Profile%67views)](https://github.com/Gladiator-007)
+[![Profile views](https://komarev.com/ghpvc/?username=Gladiator-007&label=Profile%20views)](https://github.com/Gladiator-007)
 
 - 🔭 I’m currently working on [Gladiators-Projects](https://github.com/Gladiators-Projects)
 - 🌱 I’m currently learning Python
